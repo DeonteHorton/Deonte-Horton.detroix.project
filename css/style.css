@@ -1,0 +1,151 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+
+}
+.top-nav{
+    background-color:#020331;
+    font-size: 14px;
+}
+.top-nav a:hover{
+    color: white;
+}
+header ul{
+    margin-top: 0;
+    float: right;
+    list-style: none;
+}
+header li{
+    display: inline;
+    color:rgb(161, 161, 161);
+}
+header a{
+    text-decoration: none;
+    color:#8b8b8b;
+}
+main{
+    background-color: #f5efef;
+}
+.hero-link ul{
+    margin-top: 35px;
+    list-style: none;
+    float: right;
+}
+.hero-link li{
+    display: inline;
+}
+.hero-link a{
+    background-color: #000;
+    padding: 10px;
+    border-radius: 7px;
+    color: beige;
+    text-decoration: none;
+}
+.hero-link a:hover{
+    background-color: orange;
+}
+.indicators{
+    text-align: right;
+}
+.button{
+    display: inline-block;
+    background-color: lightgray;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.button:hover{
+    background-color: orange;
+}
+.info{
+    border-top: 1px solid #000;
+    width: 81%;
+}
+.info img{
+    width: 98%;
+}
+.info-pad{
+    padding-bottom: 10px;
+}
+.strong-border{
+    border-left: 0.3px solid #000;
+    border-right: 0.3px solid #000;
+}
+.link{
+    margin-top: 0;
+    border-radius: 4px;
+    padding: 7px;
+    background-color: rgb(8, 14, 80);
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
+.link:hover{
+    background-color: orange;
+}
+
+.bottom--bgc{
+    color: #ccc;
+    background: rgb(82,97,136);
+    background: linear-gradient(180deg, rgba(82,97,136,1) 0%, rgba(20,48,68,1) 17%, rgba(2,3,49,1) 56%);
+    padding-bottom: 10px;
+}
+.color-gray{
+    color: #bdbdbd8f;
+}
+.p-bottom{
+    padding-bottom: 10px;
+}
+.i-tool{
+    font-size: 15px;
+}
+.services li{
+    list-style: none;
+    line-height: 35px;
+    margin-left: -50px;
+    color: #ffffffa9;
+}
+.opportunities li{
+    list-style: none;
+}
+.opp-mt{
+    margin-top:4px;
+}
+.news-mt{
+    margin-top: -13px;
+    margin-left: 5px;
+}
+.dates{
+    margin-left: 50px;
+}
+.border--one{
+    position: absolute;
+    text-align: center;
+    margin-left: -50px;
+    padding: 4px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+    background: #df8b54;
+}.border--two{
+    position: absolute;
+    text-align: center;
+    margin-left: -50px;
+    padding: 4px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+    background: #ce6231;
+}
+.border--three{
+    position: absolute;
+    text-align: center;
+    margin-left: -50px;
+    padding: 4px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20%;
+    background: #e70651;
+}
+.copyright{
+    background-color: #01010e;
+    font-size: 14px;
+}
